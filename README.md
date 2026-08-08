@@ -23,4 +23,25 @@ ADRB2 Gene is broadly used in pharmacology.
 - MEGA
 
 ## Species Studied 
+- Homo sapiens (Human)
+- Mus musculus (Mouse)
+- Rattus norvegicus (Brown Rat)
+- Bos taurus (Bovine cow)
+- Sus scrofa (Pig)
+
+## Work Order
+1. Retrieve the data from the databases.
+2. Download the files in FASTA format.
+3. Perform BLASTP analysis.
+4. Conduct multiple sequence alignment.
+5. Comparative analysis.
+6. Build phylogenetic tree.
+7. Conclusion
+
+## Learning Outcomes
+- Retrieval of sequences from different databases available.
+- Similarity analysis.
+- Multiple sequence alignment and identification of conserved regions.
+- Evolutionary relationship.
+
 - 
