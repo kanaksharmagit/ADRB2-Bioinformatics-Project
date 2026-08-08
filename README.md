@@ -8,7 +8,6 @@ The study compares ADRB2 protein sequences from multiple mammalian species using
 - Compare the protein sequences using BLASTP.
 - Multiple sequence alignment by MAFFT or CLUSTAL OMEGA.
 - Identify the conserved areas.
-- Protein structure visualization.
 - Phylogeny tree for study of evolutionary relationships.
 
 ## Introduction 
@@ -20,7 +19,7 @@ ADRB2 Gene is broadly used in pharmacology.
 - NCBI
 - UNIPROT
 - BLAST
-- MAFFT/CLUSTAL OMEGA
+- MAFFT/CLUSTAL W
 - MEGA
 
 ## Species Studied 
