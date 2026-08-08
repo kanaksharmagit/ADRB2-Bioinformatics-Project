@@ -43,5 +43,3 @@ ADRB2 Gene is broadly used in pharmacology.
 - Similarity analysis.
 - Multiple sequence alignment and identification of conserved regions.
 - Evolutionary relationship.
-
-- 
