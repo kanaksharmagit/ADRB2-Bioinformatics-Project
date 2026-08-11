@@ -23,16 +23,14 @@ ADRB2 Gene is broadly used in pharmacology.
 - MEGA
 
 ## Species Studied 
-- Homo sapiens (Human)
-- Mus musculus (Mouse)
-- Rattus norvegicus (Brown Rat)
-- Bos taurus (Bovine cow)
-- Sus scrofa (Pig)
-  
-| Header 1 | Header 2 | Header 3 |
+
+|       Scientific Names       |        Common names       |         Sequence Accession        |
 | --- | --- | --- |
-| Cell 1 | Cell 2 | Cell 3 |
-| Cell 4 | Cell 5 | Cell 6 |
+| Homo sapiens | Human | Cell 3 |
+| Mus musculus | Mouse | Cell 6 |
+| Rattus norvegicus | Brown Rat |
+| Sus scrofa | Pig |
+| Bos taurus | Bovine cow |
 
 
 ## Work Order
