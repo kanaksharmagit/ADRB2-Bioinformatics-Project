@@ -9,11 +9,19 @@ The study compares ADRB2 protein sequences from multiple mammalian species using
 - Multiple sequence alignment by MAFFT or CLUSTAL OMEGA.
 - Identify the conserved areas.
 - Phylogeny tree for study of evolutionary relationships.
+- To demonstrate a complete beginner-level bioinformatics sequence-analysis workflow.
 
-## Introduction 
+## About ADRB2
 ADRB2 Gene in Homo Sapiens encodes for **Beta-2 adrenergic receptor** i.e. a G- protein coupled receptor activated by epinephrine (adrenaline).
+The beta-2 adrenergic receptor is involved in cellular responses to adrenaline and related catecholamines and plays an important role in processes such as:
+  1. Smooth Muscle relaxation
+  2. Regulation of airway function
+  3. Cardiovascular responses
+  4. Signal transduction
+  5. G-protein-mediated cellular signalling
 Works by interacting with Epinephrine or similar artificially made **Beta- 2 antagonist drugs** that mimics epinephrine to give relief from the muscle contraction especially in lungs and uterine muscle.
 ADRB2 Gene is broadly used in pharmacology.
+Because ADRB2 is conserved across different species, it provides a useful model for studying sequence conservation and evolutionary relationships.
 
 ## Tools Included
 - NCBI
@@ -47,3 +55,17 @@ ADRB2 Gene is broadly used in pharmacology.
 - Similarity analysis.
 - Multiple sequence alignment and identification of conserved regions.
 - Evolutionary relationship.
+
+## Methodology
+### 1. Sequence Retrieval
+The ADRB2 sequence was obtained from a public sequence database (UniProt).
+Sequences corresponding to ADRB2 from the selected organism were collected for the comparative analysis.
+These sequences are saved in FASTA format.
+
+ - A FASTA format file generally contains the sequence ID and sequence identifier.
+
+### 2. Blast Analysis
+Basic Local Alignment Search Tool is basically used to identify the similar sequences of the query sequences and also identifies the similarity by comparing the query sequence against sequences present in a selected database.
+
+- Parameters analyzed
+
