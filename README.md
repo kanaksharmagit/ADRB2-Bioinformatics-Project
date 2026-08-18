@@ -41,7 +41,7 @@ The beta-2 adrenergic receptor is involved in cellular responses to adrenaline a
 | Bos taurus | Bovine cow | Q28044 |
 
 
-## Work Order
+## Work Order 
 1. Retrieve the data from the databases.
 2. Download the files in FASTA format.
 3. Perform BLASTP analysis.
@@ -152,6 +152,12 @@ Sequences that cluster closely together are generally interpreted as having grea
 
 Organisms sharing a closer branch point are inferred to have a more recent common ancestor relative to organisms separated by deeper branches.
 
+## Repository Structure 
+1. sequences
+2. data
+3. blast
+4. multiple_alignment
+5. phylogenetic_tree
 
 ## Biological Interpretation
 The conservation of ADRB2 across different organisms suggests that important structural and functional features of the receptor are conserved during evolution.
