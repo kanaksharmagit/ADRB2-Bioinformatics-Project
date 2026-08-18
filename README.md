@@ -19,9 +19,9 @@ The beta-2 adrenergic receptor is involved in cellular responses to adrenaline a
   3. Cardiovascular responses
   4. Signal transduction
   5. G-protein-mediated cellular signalling
-Works by interacting with Epinephrine or similar artificially made **Beta- 2 antagonist drugs** that mimics epinephrine to give relief from the muscle contraction especially in lungs and uterine muscle.
-ADRB2 Gene is broadly used in pharmacology.
-Because ADRB2 is conserved across different species, it provides a useful model for studying sequence conservation and evolutionary relationships.
+- Works by interacting with Epinephrine or similar artificially made **Beta- 2 antagonist drugs** that mimics epinephrine to give relief from the muscle contraction especially in lungs and uterine muscle.
+- ADRB2 Gene is broadly used in pharmacology.
+- Because ADRB2 is conserved across different species, it provides a useful model for studying sequence conservation and evolutionary relationships.
 
 ## Tools Included
 - NCBI
@@ -69,12 +69,12 @@ Basic Local Alignment Search Tool is basically used to identify the similar sequ
 
 Some analyzed parameters are:
 #### A. % Identity
- The percentage of the positions in aligned region that are identical between the query and reference sequence.
- For example:
+- The percentage of the positions in aligned region that are identical between the query and reference sequence.
+- For example:
       -Query: ATGCGCT
       -Reference: ATCCCCT
-Therefore, 5 out of 7 positions are identical, so the % identity would be 71.428 %.
-A higher percentage identity generally indicates greater sequence similarity.
+- Therefore, 5 out of 7 positions are identical, so the % identity would be 71.428 %.
+- A higher percentage identity generally indicates greater sequence similarity.
 
 
 #### B. Query Coverage
