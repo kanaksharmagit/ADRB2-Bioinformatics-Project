@@ -80,4 +80,19 @@ A higher percentage identity generally indicates greater sequence similarity.
 
 
 #### B. Query Coverage
-- 
+Query coverage represents the percentage of the query sequence that participates in the alignment.
+For example:
+
+If the query contains:
+
+1000 amino acids
+
+and BLAST aligns:
+
+900 amino acids
+
+then:
+
+Query Coverage = 90%
+
+High query coverage combined with high sequence identity provides stronger evidence of a substantial homologous relationship. 
