@@ -151,3 +151,11 @@ The tree represents the evolutionary relationships among the selected ADRB2 sequ
 Sequences that cluster closely together are generally interpreted as having greater sequence similarity.
 
 Organisms sharing a closer branch point are inferred to have a more recent common ancestor relative to organisms separated by deeper branches.
+
+
+## Biological Interpretation
+The conservation of ADRB2 across different organisms suggests that important structural and functional features of the receptor are conserved during evolution.
+
+At the same time, variable regions demonstrate that certain portions of the sequence have undergone evolutionary changes.
+
+The combination of BLAST, multiple sequence alignment, and phylogenetic analysis therefore provides deeper understanding of ADRB2 than any single analysis alone.
