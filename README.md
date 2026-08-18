@@ -96,3 +96,30 @@ then:
 Query Coverage = 20%
 
 High query coverage combined with high sequence identity provides stronger evidence of a substantial homologous relationship. 
+
+
+#### C. E-Value
+Expect value estimates how many matches of similar quality could be expected to occur by chance in database search.
+
+A lower E-Value indicates more significant match.
+
+An E-Value approaching zero indicates a highly significant alignment.
+
+
+#### D. Bit Score 
+It represents the quality of the aligned sequence.\
+Generally higher bit score indicates stronger alignment.
+
+
+
+### 3. Comparative BLAST analysis
+The BLAST results were compared based on:
+
+- % identity
+- Query coverage
+- E-Value
+- Bit Score
+- Organism
+- Accession number
+
+The results can be summarized in given table: 
