@@ -122,4 +122,8 @@ The BLAST results were compared based on:
 - Organism
 - Accession number
 
-The results can be summarized in given table: 
+Sequences showing high percentage identity and high query coverage are likely to share a stronger evolutionary relationship with the query sequence.
+
+However, percentage identity alone should not be used to determine evolutionary relationships. 
+
+Other factors such as alignment coverage, sequence quality, conserved regions, and phylogenetic analysis should also be considered.
