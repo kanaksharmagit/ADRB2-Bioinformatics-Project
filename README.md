@@ -58,8 +58,8 @@ The beta-2 adrenergic receptor is involved in cellular responses to adrenaline a
 
 ## Methodology
 ### 1. Sequence Retrieval
-The ADRB2 sequence was obtained from a public sequence database (UniProt).
-Sequences corresponding to ADRB2 from the selected organism were collected for the comparative analysis.
+The ADRB2 sequence was obtained from a public sequence database (UniProt).\
+Sequences corresponding to ADRB2 from the selected organism were collected for the comparative analysis.\
 These sequences are saved in FASTA format.
 
  - A FASTA format file generally contains the sequence ID and sequence identifier.
@@ -69,11 +69,11 @@ Basic Local Alignment Search Tool is basically used to identify the similar sequ
 
 Some analyzed parameters are:
 #### A. % Identity
-- The percentage of the positions in aligned region that are identical between the query and reference sequence.
-- For example: 1. Query: ATGCGCT
+The percentage of the positions in aligned region that are identical between the query and reference sequence.\
+For example: 1. Query: ATGCGCT\
                2. Reference: ATCCCCT
-- Therefore, 5 out of 7 positions are identical, so the % identity would be 71.428 %.
-- A higher percentage identity generally indicates greater sequence similarity.
+Therefore, 5 out of 7 positions are identical, so the % identity would be 71.428 %.\
+A higher percentage identity generally indicates greater sequence similarity.
 
 
 #### B. Query Coverage
