@@ -127,3 +127,19 @@ Sequences showing high percentage identity and high query coverage are likely to
 However, percentage identity alone should not be used to determine evolutionary relationships. 
 
 Other factors such as alignment coverage, sequence quality, conserved regions, and phylogenetic analysis should also be considered.
+
+### 4. Multiple Sequence Alignment 
+Multiple sequence alignment was performed using CLUSTAL W.
+
+The purpose of multiple sequence alignment is to arrange sequences so that corresponding residues can be compared across different organisms.
+
+The alignment helps identify:
+
+- Conserved residues
+- Conserved regions
+- Variable regions
+- Insertions
+- Deletions
+- Potentially functionally important positions
+
+The positions that remain similar across multiple sequences represent conserved regions, whereas positions showing substitutions or gaps represent more variable regions.
