@@ -68,13 +68,13 @@ These sequences are saved in FASTA format.
 Basic Local Alignment Search Tool is basically used to identify the similar sequences of the query sequences and also identifies the similarity by comparing the query sequence against sequences present in a selected database.
 
 Some analyzed parameters are:
-- % Identity
--The percentage of the positions in aligned region that are identical between the query and reference sequence.
--For example:
--Query: ATGCGCT
--Reference: ATCCCCT
--Therefore, 5 out of 7 positions are identical, so the % identity would be 71.428 %.
--A higher percentage identity generally indicates greater sequence similarity.
+#### 1. % Identity
+- The percentage of the positions in aligned region that are identical between the query and reference sequence.
+- For example:
+- Query: ATGCGCT
+- Reference: ATCCCCT
+- Therefore, 5 out of 7 positions are identical, so the % identity would be 71.428 %.
+- A higher percentage identity generally indicates greater sequence similarity.
 
 
 - Query Coverage
