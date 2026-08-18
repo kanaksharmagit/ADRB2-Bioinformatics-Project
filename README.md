@@ -89,10 +89,10 @@ If the query contains:
 
 and BLAST aligns:
 
-900 amino acids
+200 amino acids
 
 then:
 
-Query Coverage = 90%
+Query Coverage = 20%
 
 High query coverage combined with high sequence identity provides stronger evidence of a substantial homologous relationship. 
