@@ -159,3 +159,22 @@ The conservation of ADRB2 across different organisms suggests that important str
 At the same time, variable regions demonstrate that certain portions of the sequence have undergone evolutionary changes.
 
 The combination of BLAST, multiple sequence alignment, and phylogenetic analysis therefore provides deeper understanding of ADRB2 than any single analysis alone.
+
+## Learning Outcomes 
+Through this project,  I gained practical exposure to:
+1. Biological sequence databases
+2. FASTA sequence
+3. NCBI resources
+4. BLAST
+5. Sequence similarity analysis
+6. Multiple sequence alignment
+7. Conserved region identification
+8. Phylogenetic tree construction
+9. Interpretation of evolutionary relationships
+10. Scientific data organization
+11. GitHub-based project documentation
+
+## Author 
+Kanak Sharma - B.Tech Biotechnology Student\
+Areas of Interest:\
+Bioinformatics | Biotechnology | Molecular Biology | Computational Biology
