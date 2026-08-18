@@ -122,11 +122,11 @@ The BLAST results were compared based on:
 - Organism
 - Accession number
 
-Sequences showing high percentage identity and high query coverage are likely to share a stronger evolutionary relationship with the query sequence.
+Sequences showing high percentage identity and high query coverage are generally share a stronger evolutionary relationship with the query sequence.
 
 However, percentage identity alone should not be used to determine evolutionary relationships. 
 
-Other factors such as alignment coverage, sequence quality, conserved regions, and phylogenetic analysis should also be considered.
+Other factors such as alignment coverage, conserved regions, and phylogenetic analysis should also be considered.
 
 ### 4. Multiple Sequence Alignment 
 Multiple sequence alignment was performed using CLUSTAL W.
@@ -135,7 +135,6 @@ The purpose of multiple sequence alignment is to arrange sequences so that corre
 
 The alignment helps identify:
 
-- Conserved residues
 - Conserved regions
 - Variable regions
 - Insertions
@@ -143,3 +142,12 @@ The alignment helps identify:
 - Potentially functionally important positions
 
 The positions that remain similar across multiple sequences represent conserved regions, whereas positions showing substitutions or gaps represent more variable regions.
+
+### 5. Phylogenetic Tree Construction
+A phylogenetic tree was constructed using the aligned sequences.
+
+The tree represents the evolutionary relationships among the selected ADRB2 sequences.
+
+Sequences that cluster closely together are generally interpreted as having greater sequence similarity.
+
+Organisms sharing a closer branch point are inferred to have a more recent common ancestor relative to organisms separated by deeper branches.
