@@ -24,13 +24,13 @@ ADRB2 Gene is broadly used in pharmacology.
 
 ## Species Studied 
 
-|       Scientific Names       |        Common names       |         Sequence Accession        |
+|       Scientific Names       |        Common names       |         Primary Accession        |
 | --- | --- | --- |
-| Homo sapiens | Human | Cell 3 |
-| Mus musculus | Mouse | Cell 6 |
-| Rattus norvegicus | Brown Rat |
-| Sus scrofa | Pig |
-| Bos taurus | Bovine cow |
+| Homo sapiens | Human | P07550 |
+| Mus musculus | Mouse | P18762 |
+| Rattus norvegicus | Brown Rat | P10608 |
+| Sus scrofa | Pig | Q28997 |
+| Bos taurus | Bovine cow | Q28044 |
 
 
 ## Work Order
