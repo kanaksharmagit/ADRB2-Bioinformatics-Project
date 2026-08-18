@@ -71,8 +71,8 @@ Some analyzed parameters are:
 #### A. % Identity
  The percentage of the positions in aligned region that are identical between the query and reference sequence.
  For example:
-       Query: ATGCGCT
-      Reference: ATCCCCT
+      -Query: ATGCGCT
+      -Reference: ATCCCCT
 Therefore, 5 out of 7 positions are identical, so the % identity would be 71.428 %.
 A higher percentage identity generally indicates greater sequence similarity.
 
